@@ -1,0 +1,7 @@
+interface:
+  display_name: "交易截图生成器"
+  short_description: "根据事件生成 iLands 交易详情截图"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-transaction-screenshot-generator to create an image with this template."
+policy:
+  allow_implicit_invocation: true

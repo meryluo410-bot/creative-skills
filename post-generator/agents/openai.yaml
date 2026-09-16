@@ -1,0 +1,4 @@
+interface:
+  display_name: "帖子生成器"
+  short_description: "根据剧情或对话直接生成完整九比十六社交帖子成图"
+  default_prompt: "Use $post-generator to directly turn this plot or conversation into one polished social post image without a preview or approval step."

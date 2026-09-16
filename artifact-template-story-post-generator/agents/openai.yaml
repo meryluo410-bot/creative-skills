@@ -1,0 +1,7 @@
+interface:
+  display_name: "Story Post Generator"
+  short_description: "Create images with the Story Post Generator template"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-story-post-generator to create an image with this template."
+policy:
+  allow_implicit_invocation: true

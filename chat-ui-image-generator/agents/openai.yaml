@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧情聊天截图生成器"
+  short_description: "先确认文案和卡片布局，再直接生成完整九比十六聊天截图"
+  default_prompt: "Use $chat-ui-image-generator to first show me the complete chat copy and media-card placement plan for approval, then directly generate the final 9:16 screenshot as one image."
